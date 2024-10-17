@@ -1,3 +1,3 @@
-**#Hello Betty**
+**Hello Betty**
 
 this project is about creating 
